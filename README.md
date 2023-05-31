@@ -67,8 +67,9 @@ Password= 'aryan'
 ```
 
 For Generating Bill press 1 and Check the new Window.type your name and phone no.
-Type the no. of Items you require and press on "Generate Bill" Button And check 
-your Authentic Bill on the Bill Menu Pane,the "Total" button dosent work, dont press.
+
+Type the no. of Items you require and press on "Generate Bill" Button And check your Authentic Bill on the Bill Menu Pane,the "Total" button dosent work, dont press.
+
 Click on "Clear" Button to Clear and click on "Exit" to Exit the Bill.
 
 To Edit the Items or Employee Details enter the number of the desired option.
