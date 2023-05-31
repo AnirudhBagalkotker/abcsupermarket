@@ -66,7 +66,7 @@ Username= 'anirudh'
 Password= 'aryan'
 ```
 
-For Generating Bill press 1 and Check the new Window.type your name and phone no.
+For Generating Bill press 1 and Check the new Window. Type your name and phone no.
 
 Type the no. of Items you require and press on "Generate Bill" Button And check your Authentic Bill on the Bill Menu Pane, The "Total" button dosent work, dont press.
 
