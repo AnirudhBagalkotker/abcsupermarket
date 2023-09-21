@@ -3,7 +3,7 @@ An Admin panel for a Supermarket made using Tkinter(python)
 
 ## SETUP INSTRUCTIONS
 
-The project is not well organised and the different components are still not well integrates. So you will have to do a lot of work manually for setting it up. The Repo already contains some data in the .csv files for Setup purposes which can be changed afterwards. If these files are omitted then it is required to create the .csv files with some pre-filled data in it.
+The project is not well organized and the different components are still not well integrated. So you will have to do a lot of work manually to set it up. The Repo already contains some data in the .csv files for Setup purposes which can be changed afterwards. If these files are omitted then it is required to create the .csv files with some pre-filled data in them.
 
 ### Prerequisites
 ***1. Python must be installed.***
@@ -22,7 +22,7 @@ for Ubuntu Based Distros
 ```
 sudo pacman -S python3
 ```
-for Arch Based Distros
+for Arch-based Distros
 
 ```
 sudo dnf install python3
@@ -30,13 +30,13 @@ sudo dnf install python3
 for Fedora Based Distros
 
 ***2. Pandas Module must be installed.***
-Open your termimnal and type the command
+Open your terminal and type the command
 
 ```
 pip install pandas
 ```
 
-if any error appears for a missing module, please install then required module
+if any error appears for a missing module, then please install the required module
 
 ### Setup Commands
 
